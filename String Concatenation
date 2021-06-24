@@ -1,0 +1,3 @@
+console.log('Hello' + 'World');
+console.log('Hello' + ' ' + 'World');
+//You can add a space using string concatenation. Concatenation is a difficult word to pronounce when sleepy.
