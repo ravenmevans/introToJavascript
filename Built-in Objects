@@ -1,0 +1,8 @@
+//Math.random gives you a random number and Math.floor gives you a whole number
+console.log(Math.floor(Math.random() * 100));
+
+//Math.ceil gives you the smallest interger greater than or equal to the number below
+console.log(Math.ceil(43.8));
+
+//Using the number object checks if this is an integer among other things that the object does
+console.log(Number.isInteger(2017));
