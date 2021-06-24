@@ -1,0 +1,4 @@
+console.log('JavaScript'); //This is a string
+console.log(2011); //This is a simple number
+console.log('Woohoo! I love to code! #codecademy'); //This is also a string
+console.log(20.49); //This is another number
