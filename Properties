@@ -1,0 +1,2 @@
+console.log('Teaching the world how to code'.length);
+//Does Twitter use this to count the number of character in a Tweet?
